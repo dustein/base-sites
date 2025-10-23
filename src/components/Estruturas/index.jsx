@@ -6,7 +6,7 @@ export function Estruturas() {
         <div className="bg-white p-2 rounded-lg shadow-md hover:shadow-xl transition-shadow w-64">
           <h3 className="font-bold text-xl mb-2 text-blue-800">Piscinas</h3>
           {/* <p className="text-gray-600">...</p> */}
-          <img className="rounded-xl" src="/imagens/piscina.jpg" alt="" />
+          <img className="rounded-xl" src="imagens/piscina.jpg" alt="" />
         </div>
 
         <div className="bg-white p-2 rounded-lg shadow-md hover:shadow-xl transition-shadow w-64">

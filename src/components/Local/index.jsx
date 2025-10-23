@@ -15,7 +15,7 @@ export function Local() {
             2490-1393 |
             2490-7038</span>
               <div>
-                <img className="mr-2 w-8 inline" src="imagens/location-1-svgrepo-com.svg" alt="" />
+                <img className="mr-2 w-8 inline" src="imagens/location.svg" alt="" />
                 Endereço: <p>Av. Miguel Antônio Fernandes, 15</p>
                             <p>Recreio dos Bandeirantes, Rio de Janeiro - RJ, 22790-682</p>
               </div>
@@ -26,13 +26,13 @@ export function Local() {
           <h2 className="text-lg font-bold p-1 mb-4 border-b">Internet</h2>
           <div className="leading-16">
             <a href="https://www.instagram.com/clubenovorio">
-              <img className="mr-2 w-8 inline" src="/imagens/instagram-1-svgrepo-com.svg" alt="" />
+              <img className="mr-2 w-8 inline" src="imagens/instagram.svg" alt="" />
               <span className="text-xl text-white tracking-widest p-1 rounded-xl bg-blue-700">@clubenovorio</span>
             </a>
           </div>
           <div className="leading-12">
             <a href="https://wa.me/5521970403459">
-              <img className="mr-2 w-8 inline" src="/imagens/whatsapp-svgrepo-com.svg" alt="" />
+              <img className="mr-2 w-8 inline" src="imagens/whatsapp.svg" alt="" />
               <span className="text-xl tracking-widest p-1 rounded-xl bg-blue-700">97040-3459</span>
             </a>
           </div>
