@@ -1,0 +1,21 @@
+/* Boas Práticas
+Quando usar cada arquivo:
+Use index.css para:
+
+Reset CSS e normalize
+
+Estilos do body e html
+
+Variáveis CSS globais
+
+Fontes padrão da aplicação​
+
+Use App.css para:
+
+Layout principal da aplicação
+
+Estilos do container raiz
+
+Grid/flexbox para organização geral​ */
+
+@import "tailwindcss";
