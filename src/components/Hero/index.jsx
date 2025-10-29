@@ -23,7 +23,7 @@ export function Hero() {
         <h1 className="mb-4 text-3xl font-extrabold text-white md:text-5xl">
           Bem-vindo ao 
           {/* Corrigi a estrutura do HTML aqui para ser mais semântica */}
-          <span className="block text-blue-400">Novo Rio Country Club</span>
+          <span className="block text-blue-400">Bandeirantes Clube de Esportes e Lazer</span>
         </h1>
         
         <p className="mx-auto max-w-2xl text-lg text-gray-200">

@@ -112,7 +112,7 @@ export function Carrossel() {
     >
       {/* Card atual */}
       <div className="bg-white p-6 rounded-lg shadow-md hover:shadow-xl transition-shadow">
-        <h3 className="font-bold text-xl mb-2 text-blue-800">
+        <h3 className="font-bold text-xl mb-2 text-green-800">
           {items[currentIndex].title}
         </h3>
         <p className="text-gray-600">

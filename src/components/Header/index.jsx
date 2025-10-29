@@ -6,10 +6,10 @@ export const Header = () => {
   return (
     <header className="bg-white shadow-md sticky top-0 z-50">
       <nav className="container mx-auto px-4 py-2 flex justify-between items-center">
-        <a href="#" className="text-xl font-bold text-blue-950 hover:text-yellow-500 transition-colors flex items-center gap-2">
-          <img src="imagens/novo-rio-logo.png" className="max-w-20" alt="" />
+        <a href="#" className="text-xl font-bold text-green-950 hover:text-yellow-500 transition-colors flex items-center gap-2">
+          <img src="imagens/clube-bandeirantes-logo.png" className="max-w-20" alt="" />
           <div>
-            <p>Novo Rio </p><p className='text-base'>Country Club</p>
+            <p>Clube Bandeirantes </p><p className='text-base'>Esporte e Lazer</p>
           </div>
         </a>
         
@@ -21,7 +21,7 @@ export const Header = () => {
           <a href="#" className="text-gray-600 hover:text-yellow-400 transition-colors pr-2 border-r">Serviços</a>
           <a href="#" className="text-gray-600 hover:text-yellow-400 transition-colors pr-2 border-r">Associação</a>
           <a href="#" className="text-gray-600 hover:text-yellow-400 transition-colors pr-2">Sobre o Clube</a>
-          <a href="#" className="bg-yellow-300 text-blue-600 px-4 py-2 rounded-md hover:bg-yellow-400 transition-colors shadow">
+          <a href="#" className="bg-yellow-300 text-green-600 px-4 py-2 rounded-md hover:bg-yellow-400 transition-colors shadow">
             Contato
           </a>
         </div>
